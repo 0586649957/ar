@@ -350,7 +350,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">חיים חדשים לספר בטכנולוגית 3D ייחודית! 3 ספרים לבחירה במחיר מוזל עם\n</span><div><span style=\"font-weight: normal;\">חוברת צביעה צביעה במתנה.</span></div>",
-          "text": "ספר חיות הג'ונגל ו/או ספר חיות החווה ו/או ספר חיות היום + חוברת צביעה\n<br>לכל ספר + אפליקציה<br>הפעלה ללא צורך האיטרנת",
+          "text": "ספר חיות הג'ונגל ו/או ספר חיות החווה ו/או ספר חיות היום + חוברת צביעה\n<br>לכל ספר + אפליקציה<br><b><i>הפעלה ללא צורך האיטרנת</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp;להזמנה</a>",
           "_tags": [
             "Thème"
@@ -363,7 +363,8 @@
             },
             "P": {
               "text-align": "right",
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#000000"
             },
             "SPAN": {
               "font-size": "20px",
@@ -376,6 +377,9 @@
             },
             ".btn": {
               "font-size": "15px"
+            },
+            "I": {
+              "color": "#e25041"
             }
           }
         },
