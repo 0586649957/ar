@@ -166,6 +166,9 @@
             },
             ".mbr-section-title DIV": {
               "color": "#000000"
+            },
+            ".mbr-section-text B": {
+              "color": "#b8312f"
             }
           },
           "_params": {
@@ -210,7 +213,7 @@
             }
           },
           "title": "ספרים רבותיי ספרים!\n<div>לקרוא ספר</div>",
-          "text": "&nbsp;בטכנולוגיה חדשה<br>&nbsp;2020 כאן !\n<br>מבצע מיוחד&nbsp;",
+          "text": "&nbsp;בטכנולוגיה חדשה<br>&nbsp;2020 כאן !\n<br>מבצע מיוחד&nbsp;<br><b>ח</b><b>וברת צביה מתנה בשובי 20 ש\"ח על כל ספר</b>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; להזמנה לחצו\nעל הספרים</a> ",
           "_tags": [
             "Thème"
