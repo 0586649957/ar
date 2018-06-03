@@ -574,3 +574,166 @@ h6,
 #social-buttons3-4 .mbr-section-title SPAN {
   font-size: 15px;
 }
+
+
+
+
+
+
+
+#menu-14 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-14 .navbar-caption {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-14 .navbar-toggler {
+  color: #475577;
+}
+#menu-14 .close-icon::before,
+#menu-14 .close-icon::after {
+  background-color: #475577;
+}
+#menu-14 .link,
+#menu-14 .dropdown-item {
+  color: #475577;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#menu-14 .link {
+  font-size: 1.2rem;
+}
+#menu-14 .dropdown-item,
+#menu-14 .nav-dropdown-sm .link {
+  font-size: 1.300rem;
+}
+#menu-14 .link:hover,
+#menu-14 .dropdown-item:hover,
+#menu-14 .link:focus,
+#menu-14 .dropdown-item:focus {
+  color: #d14841;
+}
+#menu-14 .link[aria-expanded="true"],
+#menu-14 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-14 .nav-dropdown-sm .link:focus,
+#menu-14 .nav-dropdown-sm .link:hover,
+#menu-14 .nav-dropdown-sm .dropdown-item:focus,
+#menu-14 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-14 .navbar,
+#menu-14 .nav-dropdown-sm,
+#menu-14 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-14 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-14 .bg-color.transparent .link {
+  color: #475577;
+  transition: none;
+}
+#menu-14 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-14 .bg-color.transparent.opened .link:hover,
+#menu-14 .bg-color.transparent.opened .link:focus {
+  color: #d14841;
+}
+#menu-14 .link[aria-expanded="true"],
+#menu-14 .dropdown-item[aria-expanded="true"] {
+  color: #d14841!important;
+}
+#menu-14 A {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 14px;
+}
+#header6-15 .mbr-section-title {
+  color: #28262b;
+  text-align: right;
+  font-size: 36px;
+}
+#header6-15 .mbr-section-text {
+  color: #000000;
+  text-align: right;
+  font-size: 32px;
+}
+#header6-15 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+}
+#header6-15 .mbr-section-title DIV {
+  color: #000000;
+}
+#header6-15 .mbr-section-text B {
+  color: #b8312f;
+}
+#msg-box5-16 H3 {
+  color: #475577;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17 .mbr-section-title {
+  font-size: 30px;
+}
+#header3-17 .mbr-section-title H2 {
+  text-align: center;
+  color: #475577;
+}
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box5-18 H3 {
+  text-align: right;
+}
+#msg-box5-18 P {
+  text-align: right;
+  font-size: 20px;
+  color: #000000;
+}
+#msg-box5-18 SPAN {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-18 DIV {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-18 .btn {
+  font-size: 15px;
+}
+#msg-box5-18 I {
+  color: #e25041;
+}
+#msg-box8-19 .mbr-section-title,
+#msg-box8-19 p {
+  color: #fff;
+}
+#msg-box8-19 .btn {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-1a H3 {
+  font-size: 25px;
+}
+#contacts1-1b P {
+  font-size: 16px;
+}
+#form1-1c .form-control-label {
+  color: #232323;
+}
+#form2-1d .mbr-section-title {
+  color: #fff;
+}
+#form2-1d .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#social-buttons3-1e .mbr-section-title,
+#social-buttons3-1e .btn-social {
+  color: #fff;
+}
+#social-buttons3-1e .mbr-section-title SPAN {
+  font-size: 15px;
+}
