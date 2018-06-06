@@ -265,7 +265,7 @@
             }
           },
           "title": "לגלות מציאות חדשה",
-          "text": "סדרת ספרי מציאות רודה המציגה אנימציות של חיות קסומות וסיפורים קלאסיים. שימוש בטלפון חכם או בטאבלט כדי להביא לחיים דמויות שבה ספר.",
+          "text": "סדרת ספרי מציאות רבודה המציגה אנימציות של חיות קסומות וסיפורים קלאסיים. שימוש בטלפון חכם או בטאבלט כדי להביא לחיים דמויות שבספר.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;להזמנה</a>",
           "_tags": [
             "Thème"
@@ -352,8 +352,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">חיים חדשים לספר בטכנולוגית 3D ייחודית! 3 ספרים לבחירה במחיר מוזל עם\n</span><div><span style=\"font-weight: normal;\">חוברת צביעה צביעה במתנה.</span></div>",
-          "text": "ספר חיות הג'ונגל ו/או ספר חיות החווה ו/או ספר חיות היום + חוברת צביעה\n<br>לכל ספר + אפליקציה<br><b><i>הפעלה ללא צורך באינטרנט</i></b>",
+          "title": "<span style=\"font-weight: normal;\">הספר מתעורר לחיים חדשים בטכנולוגית 3D ייחודית! 3 ספרים לבחירה במחיר מוזל עם &nbsp;</span><span style=\"font-weight: normal;\">חוברת צביעה במתנה.</span>",
+          "text": "ספר חיות הג'ונגל ו/או ספר חיות החווה ו/או ספר חיות היום + חוברת צביעה\n<br>לכל ספר + אפליקציה ייעודית<br><b><i>הפועלת ללא צורך באינטרנט</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://bit.ly/2FUrEra\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp;להזמנה</a>",
           "_tags": [
             "Thème"
@@ -512,7 +512,7 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "תיצור איתנו קשר<br><br>\nדואר אלקטרוני<a href=\"mailto:michael@interactivear.net\" class=\"text-white\"> michael@interactivear.net</a><br>טל:<br><a href=\"tel:+972546649957\" class=\"text-white\">972-54-664-9957+</a><br><br><br>&nbsp;",
+          "text2": "צרו איתנו קשר<br><br>\nדואר אלקטרוני<a href=\"mailto:michael@interactivear.net\" class=\"text-white\">&nbsp;: michael@interactivear.net</a><br>טל:<br><a href=\"tel:+972546649957\" class=\"text-white\">972-54-664-9957+</a><br><br><br>&nbsp;",
           "text3": "<strong><br></strong>אינטראקטיב אר<br><strong>InteractiveAR</strong>",
           "_tags": [
             "Thème"
@@ -541,7 +541,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "שאלות?",
+          "title": "לשאלות נוספות כיתבו לנו",
           "subtitle": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">שלח</a>",
           "form": {
@@ -1137,7 +1137,7 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "תיצור איתנו קשר<br><br>\nדואר אלקטרוני<a href=\"mailto:michael@interactivear.net\" class=\"text-white\"> michael@interactivear.net</a><br>טל:<br><a href=\"tel:+972546649957\" class=\"text-white\">972-54-664-9957+</a><br><br><br>&nbsp;",
+          "text2": "צרו איתנו קשר<br><br>\nדואר אלקטרוני<a href=\"mailto:michael@interactivear.net\" class=\"text-white\">&nbsp;: michael@interactivear.net</a><br>טל:<br><a href=\"tel:+972546649957\" class=\"text-white\">972-54-664-9957+</a><br><br><br>&nbsp;",
           "text3": "<strong><br></strong>אינטראקטיב אר<br><strong>InteractiveAR</strong>",
           "_tags": [
             "Thème"
